@@ -1,0 +1,5 @@
+*.txt
+*.bc
+*.so
+build
+*.c
